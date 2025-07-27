@@ -17,7 +17,7 @@ An interactive sales dashboard built with **Streamlit**, **Plotly**, **DuckDB**,
 Click the link below to launch the app on **Streamlit Cloud**:  
 👉 [Launch Dashboard](https://dashboards-ss-finance-app.streamlit.app)
 
-> ⚠️ You’ll need to upload the `finance_data.csv` file (available in this repo) to begin.
+> ⚠️ You’ll need to upload the Excel file `finance_data.xlsx` (available in this repo) to begin.
 
 
 ---
@@ -26,7 +26,7 @@ Click the link below to launch the app on **Streamlit Cloud**:
 
 ```
 ├── finance_dashboard_app.py   # Main Streamlit app
-├── finance_data.csv           # Sample dataset to upload
+├── finance_data.xlsx           # Sample dataset to upload
 ├── requirements.txt           # Python dependencies
 └── README.md                  # You're here!
 ```
@@ -40,7 +40,7 @@ Click the link below to launch the app on **Streamlit Cloud**:
    Open the [Streamlit app](https://dashboards-ss-finance-app.streamlit.app) in your browser.
 
 2. **Upload the Data**  
-   - Download [`finance_data.csv`](finance_data.csv) from this repo.
+   - Download [`finance_data.xlsx`](finance_data.xlsx) from this repo.
    - Use the **sidebar file uploader** in the app to upload it.
 
 3. **Explore the Dashboard**  
