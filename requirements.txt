@@ -1,0 +1,7 @@
+# requirements.txt  — pinned to the latest stable releases (27 Jul 2025)
+
+streamlit==1.47.0     # web‑app framework :contentReference[oaicite:0]{index=0}
+pandas==2.3.1         # data wrangling; uses openpyxl for Excel I/O :contentReference[oaicite:1]{index=1}
+plotly==6.2.0         # interactive charts (express & graph_objects) :contentReference[oaicite:2]{index=2}
+duckdb==1.3.2         # in‑process SQL engine for analytics           :contentReference[oaicite:3]{index=3}
+openpyxl==3.1.5       # Excel reader/writer backend used by Pandas    :contentReference[oaicite:4]{index=4}
