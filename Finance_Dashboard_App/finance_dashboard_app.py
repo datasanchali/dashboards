@@ -214,7 +214,6 @@ def plot_bottom_left():
         y="sales",
         color="Scenario",
         markers=True,
-        text="sales",
         title="Monthly Budget vs Forecast 2023 - Software",
     )
     fig.update_traces(textposition="top center")
