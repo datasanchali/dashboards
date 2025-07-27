@@ -9,6 +9,9 @@ An interactive sales dashboard built with **Streamlit**, **Plotly**, **DuckDB**,
 - Easy file upload with Excel support
 
 
+<img width="1675" height="968" alt="Sales dashboard " src="https://github.com/user-attachments/assets/056cac3e-2b8a-4699-824f-9a0c37a82a4b" />
+
+
 ## 🚀 Try the App Live
 
 Click the link below to launch the app on **Streamlit Cloud**:  
@@ -73,7 +76,7 @@ streamlit run finance_dashboard_app.py
 
 ## 👤 Author
 
-**Sanchali**  
+**Sanchali Singhal**  
 _Developed as a demonstration of modern data app capabilities._
 
 ---
